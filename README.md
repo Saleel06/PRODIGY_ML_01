@@ -9,7 +9,6 @@ This project involves predicting house prices using linear regression, based on 
 - [Model](#model)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 In this project, a linear regression model is built to predict the sale prices of houses based on various features. The primary objective is to explore the relationship between house features and their prices, and to develop a model that can make accurate predictions for unseen data.
@@ -35,6 +34,4 @@ The model is evaluated using the Root Mean Squared Error (RMSE) to measure the p
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
