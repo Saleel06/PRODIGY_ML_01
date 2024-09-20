@@ -7,7 +7,6 @@ This project involves predicting house prices using linear regression, based on 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Model](#model)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,32 +30,6 @@ The model used for this project is a simple linear regression model, trained usi
 
 ### Model Evaluation
 The model is evaluated using the Root Mean Squared Error (RMSE) to measure the prediction accuracy.
-
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/saleel06/house-price-prediction.git
-   cd house-price-prediction
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download the dataset from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) and place it in the project directory.
-
-## Usage
-1. Run the `house_price_prediction.py` script to train the model and generate predictions:
-   ```bash
-   python house_price_prediction.py
-   ```
-
-2. The script will output the predictions in a CSV file named `house_price_predictions.csv`.
-
-3. You can modify the features used for training by updating the `feature_columns` list in the script.
 
 
 ## Contributing
